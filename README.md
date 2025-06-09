@@ -28,4 +28,4 @@ Built a Python web scraper to extract and structure data from Wikipedia on the l
 4. Check the Excel file in the output folder
 
 ##  Contact
-Created by Alish Thapa. Reach out on https://www.linkedin.com/in/alish-thapa-4a874127a/
+Created by Alish Thapa. 
